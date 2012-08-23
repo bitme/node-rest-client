@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/bitme/node-rest-client.png)](http://travis-ci.org/bitme/node-rest-client)
 # bitme-rest-client
 
 Communicate with [BitMe REST API](http://bitme.github.com/rest/).
